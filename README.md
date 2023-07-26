@@ -1,4 +1,5 @@
 # 100DAYSOFCODE
 
-Will be pushing my daily codes for the challenge for the next 100 days 
+Will be pushing my daily codes for the challenge for the next 100 days.
+
 So Help me God
