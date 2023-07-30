@@ -17,7 +17,6 @@ def init_db():
     c = conn.cursor()
     c.execute("""CREATE TABLE IF NOT EXISTS todos 
               (id INTEGER PRIMARY KEY AUTOINCREMENT,
-              my_id INTEGER NOT NULL,
               task TEXT NOT NULL,
               done INTEGER NOT NULL)""")
     conn.commit()
